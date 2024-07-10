@@ -4,12 +4,33 @@
 
 # pyMBHdyn
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Page</title>
+    <style>
+        .centered-video {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Optional: Adjust the height as needed */
+        }
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
 
-<div id="video">	
-									<video width="640" height="360" controls autoplay muted>
-									    <source src="kick.mp4" type="video/mp4">
-									</video>
-								</div>
+<div class="centered-video">
+    <video controls>
+        <source src="kick.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+</body>
+</html>
 
 [pyMBHdyn](https://github.com/Blackholan/pyMBHdyn) is a Python package which tracks the orbit of the central SMBH in 370 bright central galaxies by
 using orbital integration methods after analysing the merger history of the central galaxies within its galaxy cluster. pyMBHdyn intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.tng-project.org/data/downloads/TNG300-1/) to model a realistic galaxy cluster environment.
