@@ -9,7 +9,8 @@
   <img src="ghI.jpg">
 </p>
 
-[pyMBHdyn](https://github.com/Blackholan/pyMWGCprogen) is a Python package which . pyMBHdyn intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.galpy.org/) to model a realistic galaxy cluster environment.
+[pyMBHdyn](https://github.com/Blackholan/pyMWGCprogen) is a Python package which tracks the orbit of the central SMBH in 370 bright central galaxies by
+using orbital integration methods after analysing the merger history of the central galaxies within its galaxy cluster. pyMBHdyn intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.galpy.org/) to model a realistic galaxy cluster environment.
 
 More details on the method and applications can be found in the paper:
 
