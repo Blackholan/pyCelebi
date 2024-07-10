@@ -5,7 +5,9 @@
 # pyMBHdyn
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=R5SD0JtvBDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <a href="kick.mp4" target="_blank">
+        <img src="thumbnail.jpg" alt="Video Thumbnail" width="560" height="315">
+    </a>
 </div>
 
 </body>
