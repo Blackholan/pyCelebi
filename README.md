@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="kick.mp4" target="_blank">
-        <img src="thumbnail.jpg" alt="Video Thumbnail" width="560" height="315">
+        <img src="kick.jpeg" alt="Video Thumbnail" width="560" height="315">
     </a>
 </div>
 
