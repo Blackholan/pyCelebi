@@ -13,7 +13,7 @@
 </body>
 
 [pyCelebi](https://github.com/Blackholan/pyMBHdyn) is a Python package which tracks the orbit of the central SMBH in 370 bright central galaxies by
-using orbital integration methods after analysing the merger history of the central galaxies within its galaxy cluster. pyMBHdyn intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.tng-project.org/data/downloads/TNG300-1/) to model a realistic galaxy cluster environment. Tracking the dynamics of the central BH of one BCG from z=2 to z=0 in a BCG+environment potential plus dynamical friction takes of the order of 0.05 CPU hrs.
+using orbital integration methods after analysing the merger history of the central galaxies within its galaxy cluster. pyCelebi intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.tng-project.org/data/downloads/TNG300-1/) to model a realistic galaxy cluster environment. Tracking the dynamics of the central BH of one BCG from z=2 to z=0 in a BCG+environment potential plus dynamical friction takes of the order of 0.05 CPU hrs.
 
 More details on the method and applications can be found in the paper:
 
