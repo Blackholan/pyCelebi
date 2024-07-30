@@ -19,7 +19,7 @@ More details on the method and applications can be found in the paper:
 
 [Off-centre supermassive black holes in bright central galaxies](https://arxiv.org/abs/2212.13277) [code paper]
 
-All the compiled Illustris TNG-300 data used in our paper [Chu et al. +22](https://arxiv.org/abs/2212.13277) are available here.
+All the compiled Illustris TNG-300 data used in [Chu et al. +22](https://arxiv.org/abs/2212.13277) are available [here](https://www.iap.fr/useriap/boldrini/data.html).
 
 ### Usage
 
