@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/python-3.8.2-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
-# pyMBHdyn
+# pyCelebi (CEntraLE Black hole orbital Integration)
 
 <div align="center">
     <a href="kick.mp4" target="_blank">
