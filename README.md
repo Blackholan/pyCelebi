@@ -30,7 +30,7 @@ This repository contains:
 ## Authors
 
 pyMBHdyn is distributed under the MIT license. See [MIT License](https://en.wikipedia.org/wiki/MIT_License) for more details. 
-If you use pyMWGCprogen in a publication, please cite the code paper [Chu et al. +22](https://arxiv.org/abs/2212.13277) and the galpy paper [Bovy +15](https://arxiv.org/abs/1412.3451).
+If you use pyCelebi in a publication, please cite the code paper [Chu et al. +22](https://arxiv.org/abs/2212.13277) and the galpy paper [Bovy +15](https://arxiv.org/abs/1412.3451).
 
 * [Pierre Boldrini](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP), France
 * [Aline Chu](mailto:aline.chu96@gmail.com) -- Stockholm University, Oskar Klein Center, Sweden
