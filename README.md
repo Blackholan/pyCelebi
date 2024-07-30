@@ -19,6 +19,7 @@ More details on the method and applications can be found in the paper:
 
 [Off-centre supermassive black holes in bright central galaxies](https://arxiv.org/abs/2212.13277) [code paper]
 
+All the compiled Illustris TNG-300 data used in our paper [Chu et al. +22](https://arxiv.org/abs/2212.13277) are available here.
 
 ### Usage
 
@@ -29,7 +30,7 @@ This repository contains:
 
 ## Authors
 
-pyMBHdyn is distributed under the MIT license. See [MIT License](https://en.wikipedia.org/wiki/MIT_License) for more details. 
+pyCelebi is distributed under the MIT license. See [MIT License](https://en.wikipedia.org/wiki/MIT_License) for more details. 
 If you use pyCelebi in a publication, please cite the code paper [Chu et al. +22](https://arxiv.org/abs/2212.13277) and the galpy paper [Bovy +15](https://arxiv.org/abs/1412.3451).
 
 * [Pierre Boldrini](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP), France
