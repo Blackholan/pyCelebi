@@ -25,8 +25,9 @@ All the compiled Illustris TNG-300 data for the 370 galaxy clusters used in [Chu
 
 This repository contains: 
 
-* Jupyter notebook
-* Input data
+* pyCelebi.ipynb, a jupyter notebook that allows running the code
+* Input data for one specific galaxy cluster, as an example.
+
 
 ## Authors
 
