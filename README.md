@@ -12,8 +12,8 @@
 
 </body>
 
-[pyCelebi](https://github.com/Blackholan/pyMBHdyn) is a Python package which tracks the orbit of the central SMBH in 370 bright central galaxies by
-using orbital integration methods after analysing the merger history of the central galaxies within its galaxy cluster. pyCelebi intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.tng-project.org/data/downloads/TNG300-1/) to model a realistic galaxy cluster environment. Tracking the dynamics of the central BH of one BCG from z=2 to z=0 in a BCG+environment potential plus dynamical friction takes of the order of 0.05 CPU hrs.
+[pyCelebi](https://github.com/Blackholan/pyMBHdyn) is a Python package which tracks the orbit of the central supermassive black hole (SMBH) in 370 bright central galaxies (BCGs) in the Illustris TNG-300 simulation. From the merger history of the central galaxy within its galaxy cluster, pyCelebi uses orbital integration methods to compute the trajectory of the BCG and its SMBH inside the cluster.
+#It uses orbital integration methods after analysing the merger history of the central galaxy within its galaxy cluster.# pyCelebi intensively uses [galpy](https://www.galpy.org/) for galactic dynamics and [IllustrisTNG-300](https://www.tng-project.org/data/downloads/TNG300-1/) to model a realistic galaxy cluster environment. Tracking the dynamics of the central SMBH of one BCG from z=2 to z=0 in a BCG+cluster potential including dynamical friction takes of the order of 0.05 CPU hrs.
 
 More details on the method and applications can be found in the paper:
 
@@ -25,7 +25,7 @@ All the compiled Illustris TNG-300 data for the 370 galaxy clusters used in [Chu
 
 This repository contains: 
 
-* pyCelebi.ipynb, a jupyter notebook that allows running the code
+* pyCelebi.ipynb, a jupyter notebook that allows running the code.
 * Input data for one specific galaxy cluster, as an example.
 
 
